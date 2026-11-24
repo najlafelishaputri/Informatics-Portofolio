@@ -40,5 +40,4 @@ Folder ini berisi kumpulan tugas dan proyek pengelolaan basis data selama perkul
 
 ## Tools
 - MySQL
-- MySQL Workbench
-- phpMyAdmin
+- OneCompiler
